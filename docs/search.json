@@ -466,7 +466,7 @@
     "href": "IWSM_talk.html#discussion",
     "title": "Statistical Modelling Process",
     "section": "Discussion",
-    "text": "Discussion\n\nmost problems in SM arise if the assumptions are not correct\nmeasures of goodness of fit are needed for both model fit and comparison\nideally measures of goodness of fit should focus on the question\ndiagnostics evaluated at test and training data should be part of any SM\ninterpretable models are easier to check.\n“Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead” (Rudin 2019)"
+    "text": "Discussion\n\nmost problems in SM arise if the assumptions are not correct\nmeasures of goodness of fit are needed for both model fit and comparison\nideally measures of goodness of fit should focus on the question\ndiagnostics evaluated at test and training data should be part of any SM\n“Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead” (Rudin 2019)"
   },
   {
     "objectID": "IWSM_talk.html#end",
